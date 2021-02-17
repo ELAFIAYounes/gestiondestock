@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SerieN2</string>
+    <string name="price">10$</string>
+    <string name="prodName">Product</string>
+    <string name="qteProd">Qte</string>
+    <string name="purchase">Purchase</string>
+    <string name="prodNum">Num</string>
+    <string name="dateOperation">Date</string>
+    <string name="price_string">Price</string>
+</resources>
